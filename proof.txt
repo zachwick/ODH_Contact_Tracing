@@ -1,0 +1,2 @@
+Ohio Dept. of Health's COVID-19 contact tracing web app uses base64 encoded dates and ODH patient IDs of the form "ODH-00000" and "MM/DD/YYYY"
+
